@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EscapeCharacters {
+public class OrtalamaHesaplama{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
